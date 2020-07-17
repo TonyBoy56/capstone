@@ -7,7 +7,14 @@
 
 | Component | Story |
 |---|---|
-| User Profile|| 
+| User Profile| Users can make an account with sign in/sign out functionality |
+| Data Retrieval | Users can retrieve their CoD profile data by linking their Activision account with their user profile|
+| View Data of Peers | Users can review other's profiles to reference and compare data to their own |
+| Pin to Map | Users can view and add pins to the Battle Royal map |
+| Add a Friend| Users can find new players to add as friends |
+| Create Squads | Users can add friends to a squad |
+|||  
+
 ## Installation Instructions
 
 1. Visit this link https://github.com/assassin56/capstone

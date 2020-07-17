@@ -5,7 +5,9 @@
 
 ## User Stories:
 
-
+| Component | Story |
+|---|---|
+| User Profile|| 
 ## Installation Instructions
 
 1. Visit this link https://github.com/assassin56/capstone

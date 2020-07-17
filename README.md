@@ -15,6 +15,13 @@
 | Create Squads | Users can add friends to a squad |
 |||  
 
+## Project Stretch Goals
+
+| Component | Story |
+|---|---|
+| Squad Messaging | Users can live message one another within their respective squads. |
+| Meetup Alerts | Users can setup alerts to notify squad members of proposed meet-times. |
+
 ## Installation Instructions
 
 1. Visit this link https://github.com/assassin56/capstone

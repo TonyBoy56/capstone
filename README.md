@@ -1,7 +1,7 @@
 # Where We Droppin?
 
 ## Description
-### 
+### _This is an application that allows users to create their own profiles and view their own, or other user's game data pulled from the Call of Duty Modern Warfare API._
 
 ## User Stories:
 

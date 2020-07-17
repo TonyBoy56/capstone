@@ -1,4 +1,45 @@
+# Where We Droppin?
+
+## Description
+### 
+
+## User Stories:
+
+
+## Installation Instructions
+
+1. Visit this link https://github.com/assassin56/capstone
+ 
+2. Clone this repo by selecting the "clone or download" button. This will allow you to copy the repo's link.
+
+3. While on the command line in your terminal, enter "git clone" followed by the copied url.
+
+4. Enter "ls" to show a list of files and documents. One of them will be labeled "capstone". Use "cd" followed by the project directory name to navigate there.
+
+5. While in project directory, run the command "npm install"
+
+6. While in project directory, run "npm run build"
+
+7. While in project directory, run "npm start"
+
+8. Type in your browser the url "localhost:3000" to access the page, or the page should load upon running the previous command.
+
+## Known Bugs
+* _N/A_
+
+## Technologies Used
+
+* Node.js
+* Webpack
+* npm
+* Javascript
+* jQuery
+* React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Diagrams
+
 
 ## Available Scripts
 
@@ -60,6 +101,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
+
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 

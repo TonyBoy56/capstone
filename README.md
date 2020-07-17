@@ -55,7 +55,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Diagrams
-
+![Component Map](./diags/wireframe1.png)
 
 ## Available Scripts
 

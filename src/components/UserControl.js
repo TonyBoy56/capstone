@@ -12,5 +12,7 @@ class UserControl extends React.Component {
     };
   }
 
-  
+
 }
+
+export default UserControl;

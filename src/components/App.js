@@ -1,6 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Signin from "./authorization/Signin";
+import UserControl from "./UserControl"
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (

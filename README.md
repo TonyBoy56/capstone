@@ -6,6 +6,9 @@
 ## Time-log
 * 8-10: Spent some time to look over alternative project ideas. Considering changing project towards a messaging app and may utilize tutorial to do so. 
 https://www.youtube.com/watch?v=jFNHerJqvFw
+* 10:30-12: Time spent adding code in reference to previous projects to capstone project.
+* 1:30-3: Troubleshooting complier errors being received in the console.
+* 4-5: Reconsidering new MVP approach.
 
 ## User Stories:
 

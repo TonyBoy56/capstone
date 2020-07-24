@@ -3,6 +3,10 @@
 ## Description
 ### _This is an application that allows users to create their own profiles and view their own, or other user's game data pulled from the Call of Duty Modern Warfare API._
 
+## Time-log
+* 8-10: Spent some time to look over alternative project ideas. Considering changing project towards a messaging app and may utilize tutorial to do so. 
+https://www.youtube.com/watch?v=jFNHerJqvFw
+
 ## User Stories:
 
 | Component | Story |
